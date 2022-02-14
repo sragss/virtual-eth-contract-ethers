@@ -9,6 +9,3 @@ If you'd like to run some on-chain code in an `eth_call` without deploying it fo
 ## Commands
 - Run: `ts-node ./scripts/Run.ts`
 - Compile: `npx hardhat compile`
-
-### Other
-- Compile: `npx hardhat compile`
